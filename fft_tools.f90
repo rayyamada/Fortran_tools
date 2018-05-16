@@ -3,7 +3,7 @@ module fft_tools
 !----------------------------------------------------------------------------
 ! NOTES: 
 ! The commands fft,ifft and ifft2,fft2 defined here use the FFTW library and 
-! are meant to do exactly what their MATLAB equivalent's do
+! equivalent to the functions of the same name in MATLAB and Python numpy
 !
 !----------------------------------------------------------------------------
 
